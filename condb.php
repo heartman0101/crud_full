@@ -2,7 +2,7 @@
 
 $host = "localhost";
 $username = "root";
-$password = "65500706960";
+$password = "yourPasswd";
 $dbname = "crud_task";
 
 try {
